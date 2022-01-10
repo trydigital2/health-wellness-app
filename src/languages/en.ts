@@ -1,0 +1,56 @@
+export const en = {
+  common: {
+    appName: 'Health & Wellness',
+    save: 'Save Changes',
+    cancel: 'Cancel',
+    loading: 'Loading...',
+    error: 'Something went wrong',
+    demoMode: 'Demo Exploration Mode',
+  },
+  auth: {
+    signIn: 'Sign In',
+    register: 'Create Account',
+    email: 'Email Address',
+    password: 'Password',
+    name: 'Full Name',
+    demoButton: 'Fill Demo Account',
+    disclaimer: 'Demo Mode: Credentials are saved locally only.',
+  },
+  dashboard: {
+    greetingMorning: 'Good morning',
+    greetingAfternoon: 'Good afternoon',
+    greetingEvening: 'Good evening',
+    steps: 'Steps',
+    activeMinutes: 'Active Mins',
+    calories: 'Calories',
+    water: 'Water Intake',
+    quickStart: 'Start Workout',
+    analytics: 'Analytics',
+  },
+  workouts: {
+    catalog: 'Workouts',
+    startWorkout: 'Start Workout',
+    pause: 'Pause',
+    resume: 'Resume',
+    finish: 'Finish',
+    completedTitle: 'Workout Completed! 🎉',
+    history: 'History',
+    emptyHistory: 'No workouts completed yet.',
+  },
+  progress: {
+    title: 'Health Progress',
+    streak: 'Day Streak',
+    stepsTrend: '7-Day Step Count',
+    goalMet: 'Goal Met',
+  },
+  settings: {
+    title: 'Profile & Settings',
+    goals: 'Daily Targets',
+    reminders: 'Reminders',
+    units: 'Measurement Units',
+    reset: 'Reset Sample Data',
+    logout: 'Log Out',
+  },
+};
+
+export default en;
