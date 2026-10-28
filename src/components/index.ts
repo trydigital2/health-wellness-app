@@ -7,3 +7,4 @@ export { default as WeeklyBarChart, WeeklyBarChartProps } from './WeeklyBarChart
 export { default as StatBadge, StatBadgeProps } from './StatBadge';
 export { default as DemoBanner } from './DemoBanner';
 export { default as BodyCompositionCard, BodyCompositionCardProps } from "./BodyCompositionCard";
+export { default as HydrationTrackerCard, HydrationTrackerCardProps } from "./HydrationTrackerCard";
