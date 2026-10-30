@@ -9,3 +9,4 @@ export { default as DemoBanner } from './DemoBanner';
 export { default as BodyCompositionCard, BodyCompositionCardProps } from "./BodyCompositionCard";
 export { default as HydrationTrackerCard, HydrationTrackerCardProps } from "./HydrationTrackerCard";
 export { HeartRateZoneCard, HeartRateZoneCardProps } from "./HeartRateZoneCard";
+export { default as SleepAnalyticsCard, SleepAnalyticsCardProps } from "./SleepAnalyticsCard";
