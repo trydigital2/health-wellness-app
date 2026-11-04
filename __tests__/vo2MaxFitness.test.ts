@@ -60,3 +60,4 @@ describe('HealthProject VO2 Max & Cardiorespiratory Engine', () => {
     });
   });
 });
+
