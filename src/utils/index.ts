@@ -4,4 +4,6 @@ export * from './validators';
 export * from "./bodyComposition";
 export * from "./hydration";
 export * from "./heartRateZones";
+export * from "./vo2MaxFitness";
+
 export * from "./sleepAnalytics";
