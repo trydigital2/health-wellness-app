@@ -9,3 +9,5 @@ export { default as DemoBanner } from './DemoBanner';
 export { default as BodyCompositionCard, BodyCompositionCardProps } from "./BodyCompositionCard";
 export { default as HydrationTrackerCard, HydrationTrackerCardProps } from "./HydrationTrackerCard";
 export { HeartRateZoneCard, HeartRateZoneCardProps } from "./HeartRateZoneCard";
+export { VO2MaxFitnessCard, VO2MaxFitnessCardProps } from "./VO2MaxFitnessCard";
+
