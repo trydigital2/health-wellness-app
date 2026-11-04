@@ -11,3 +11,4 @@ export { default as HydrationTrackerCard, HydrationTrackerCardProps } from "./Hy
 export { HeartRateZoneCard, HeartRateZoneCardProps } from "./HeartRateZoneCard";
 export { VO2MaxFitnessCard, VO2MaxFitnessCardProps } from "./VO2MaxFitnessCard";
 
+export { default as SleepAnalyticsCard, SleepAnalyticsCardProps } from "./SleepAnalyticsCard";
