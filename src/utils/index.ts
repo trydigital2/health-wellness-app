@@ -7,3 +7,4 @@ export * from "./heartRateZones";
 export * from "./vo2MaxFitness";
 
 export * from "./sleepAnalytics";
+export * from "./hrvRecovery";
